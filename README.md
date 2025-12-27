@@ -5,8 +5,8 @@
   
   *Minecraft dünyasında kod yazıyor, Discord botları geliştiriyor ve yeni teknolojileri (AI & Web) keşfediyorum.*
   
-  [![Instagram](https://img.shields.io/badge/Instagram-Reels_Creator-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SENIN_INSTAGRAM_ADRESIN)
-  [![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SENIN_DAVET_LINKIN)
+  [![Instagram](https://img.shields.io/badge/Instagram-Reels_Creator-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ensis.mc)
+  [![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([(https://discord.gg/DQycRGMhsT))
 </div>
 
 ---
